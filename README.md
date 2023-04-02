@@ -10,7 +10,7 @@ Add Open API Key in get_function_by_chatgpt.py
 Update url and Token in prepare_cve_data.py (this is to interact with github to get dependabot alerts)
 active_repos.json -- mention all the repo under your org
 
-# Asuumption:
+# Asumption:
 
 Install semgrep tool
 Clone the repo where you are expecting to find vulnerable function usage
