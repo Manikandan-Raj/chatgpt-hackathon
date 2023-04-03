@@ -1,7 +1,7 @@
 # chatgpt-hackathon
 
 # Install
-1. Start run pip install -r requiremnts.txt
+1. Install dependencies - Run pip install -r requiremnts.txt
 2. Run prepare_cve_data.py 
 
 # Configuration Setup:
@@ -10,7 +10,7 @@
 2. Update url and Token in prepare_cve_data.py (this is to interact with github to get dependabot alerts)
 3. active_repos.json -- mention all the repo under your org
 
-# Asumption:
+# Assumption:
 
 1. Install semgrep tool
 2. Clone the repo where you are expecting to find vulnerable function usage
